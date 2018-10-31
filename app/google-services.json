@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "647975164048",
+    "firebase_url": "https://fir-test-138a8.firebaseio.com",
+    "project_id": "fir-test-138a8",
+    "storage_bucket": "fir-test-138a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647975164048:android:24324a7bb1a27174",
+        "android_client_info": {
+          "package_name": "com.example.preethi.bicsglobalfirbasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647975164048-fldufffrfa2eeb544ho0sqpa0agr92ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7BonltVZHYnsg4JdBUMQa9gtNUZzdDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
